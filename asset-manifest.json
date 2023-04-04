@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.1d909d56.css",
-    "main.js": "/profile/static/js/main.d94c20e7.js",
+    "main.css": "/profile/static/css/main.c46586e8.css",
+    "main.js": "/profile/static/js/main.d012316b.js",
     "static/css/64.917cfe77.chunk.css": "/profile/static/css/64.917cfe77.chunk.css",
-    "static/js/64.fad9f090.chunk.js": "/profile/static/js/64.fad9f090.chunk.js",
+    "static/js/64.da588496.chunk.js": "/profile/static/js/64.da588496.chunk.js",
     "static/media/uni-heidelberg-logo.png": "/profile/static/media/uni-heidelberg-logo.0b67d76c6facefa06b45.png",
     "static/media/Montserrat-Regular.ttf": "/profile/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/programmer.svg": "/profile/static/media/programmer.e83e974daf5a8f463f46cf567192d92d.svg",
     "static/media/Agustina.woff": "/profile/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/manOnTable.svg": "/profile/static/media/manOnTable.3335356cc2e2484f205b6e30a6a1bc35.svg",
-    "static/media/skill.svg": "/profile/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/profile/index.html",
-    "main.1d909d56.css.map": "/profile/static/css/main.1d909d56.css.map",
-    "main.d94c20e7.js.map": "/profile/static/js/main.d94c20e7.js.map",
+    "main.c46586e8.css.map": "/profile/static/css/main.c46586e8.css.map",
+    "main.d012316b.js.map": "/profile/static/js/main.d012316b.js.map",
     "64.917cfe77.chunk.css.map": "/profile/static/css/64.917cfe77.chunk.css.map",
-    "64.fad9f090.chunk.js.map": "/profile/static/js/64.fad9f090.chunk.js.map"
+    "64.da588496.chunk.js.map": "/profile/static/js/64.da588496.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d909d56.css",
-    "static/js/main.d94c20e7.js"
+    "static/css/main.c46586e8.css",
+    "static/js/main.d012316b.js"
   ]
 }

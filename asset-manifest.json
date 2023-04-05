@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.c46586e8.css",
-    "main.js": "/profile/static/js/main.d012316b.js",
-    "static/css/64.917cfe77.chunk.css": "/profile/static/css/64.917cfe77.chunk.css",
-    "static/js/64.da588496.chunk.js": "/profile/static/js/64.da588496.chunk.js",
+    "main.css": "/profile/static/css/main.c797376b.css",
+    "main.js": "/profile/static/js/main.545fd62e.js",
+    "static/css/64.bba8fa55.chunk.css": "/profile/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.a2e68e72.chunk.js": "/profile/static/js/64.a2e68e72.chunk.js",
+    "static/js/394.6585094c.chunk.js": "/profile/static/js/394.6585094c.chunk.js",
     "static/media/uni-heidelberg-logo.png": "/profile/static/media/uni-heidelberg-logo.0b67d76c6facefa06b45.png",
     "static/media/Montserrat-Regular.ttf": "/profile/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/profile/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "index.html": "/profile/index.html",
-    "main.c46586e8.css.map": "/profile/static/css/main.c46586e8.css.map",
-    "main.d012316b.js.map": "/profile/static/js/main.d012316b.js.map",
-    "64.917cfe77.chunk.css.map": "/profile/static/css/64.917cfe77.chunk.css.map",
-    "64.da588496.chunk.js.map": "/profile/static/js/64.da588496.chunk.js.map"
+    "main.c797376b.css.map": "/profile/static/css/main.c797376b.css.map",
+    "main.545fd62e.js.map": "/profile/static/js/main.545fd62e.js.map",
+    "64.bba8fa55.chunk.css.map": "/profile/static/css/64.bba8fa55.chunk.css.map",
+    "64.a2e68e72.chunk.js.map": "/profile/static/js/64.a2e68e72.chunk.js.map",
+    "394.6585094c.chunk.js.map": "/profile/static/js/394.6585094c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c46586e8.css",
-    "static/js/main.d012316b.js"
+    "static/css/main.c797376b.css",
+    "static/js/main.545fd62e.js"
   ]
 }

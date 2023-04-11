@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.ff274819.css",
-    "main.js": "/profile/static/js/main.5de789a0.js",
+    "main.css": "/profile/static/css/main.919c8c77.css",
+    "main.js": "/profile/static/js/main.acbd744b.js",
     "static/media/uni-heidelberg-logo.png": "/profile/static/media/uni-heidelberg-logo.0b67d76c6facefa06b45.png",
     "static/media/Montserrat-Regular.ttf": "/profile/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/profile/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "index.html": "/profile/index.html",
-    "main.ff274819.css.map": "/profile/static/css/main.ff274819.css.map",
-    "main.5de789a0.js.map": "/profile/static/js/main.5de789a0.js.map"
+    "main.919c8c77.css.map": "/profile/static/css/main.919c8c77.css.map",
+    "main.acbd744b.js.map": "/profile/static/js/main.acbd744b.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff274819.css",
-    "static/js/main.5de789a0.js"
+    "static/css/main.919c8c77.css",
+    "static/js/main.acbd744b.js"
   ]
 }

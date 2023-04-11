@@ -1,0 +1,117 @@
+{
+    "data": {
+        "user": {
+            "name": "Alexander \"Vijo\" Ott",
+            "bio": "Backend dev. Prefers Python/Java/C#, but interested in most languages.  Interested in managing databases and security.",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/13034134?u=456dd9ab64e7a9e821f72c57e84a45918364350e&v=4",
+            "location": "Germany",
+            "pinnedItems": {
+                "totalCount": 6,
+                "edges": [
+                    {
+                        "node": {
+                            "name": "MailScript",
+                            "description": "A mail script written in python3.",
+                            "forkCount": 0,
+                            "stargazers": {
+                                "totalCount": 3
+                            },
+                            "url": "https://github.com/VijoPlays/MailScript",
+                            "id": "R_kgDOHVYTlA",
+                            "diskUsage": 29,
+                            "primaryLanguage": {
+                                "name": "Python",
+                                "color": "#3572A5"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "name": "golang-demo",
+                            "description": "A small demo project for goLang containing a simple REST endpoint and an InMemory Database.",
+                            "forkCount": 0,
+                            "stargazers": {
+                                "totalCount": 0
+                            },
+                            "url": "https://github.com/VijoPlays/golang-demo",
+                            "id": "R_kgDOIr773g",
+                            "diskUsage": 3256,
+                            "primaryLanguage": {
+                                "name": "Go",
+                                "color": "#00ADD8"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "name": "profile",
+                            "description": "A website built upon react, based on a programmer's profile.",
+                            "forkCount": 0,
+                            "stargazers": {
+                                "totalCount": 0
+                            },
+                            "url": "https://github.com/VijoPlays/profile",
+                            "id": "R_kgDOIJ8eJA",
+                            "diskUsage": 7496,
+                            "primaryLanguage": {
+                                "name": "HTML",
+                                "color": "#e34c26"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "name": "PythonChatBot",
+                            "description": "A Python bot I wrote for Twitch to respond to commands and also to integrate my iTunes playlist a bit.",
+                            "forkCount": 1,
+                            "stargazers": {
+                                "totalCount": 0
+                            },
+                            "url": "https://github.com/VijoPlays/PythonChatBot",
+                            "id": "MDEwOlJlcG9zaXRvcnkyNjg4Mjc1MDQ=",
+                            "diskUsage": 2527,
+                            "primaryLanguage": {
+                                "name": "Python",
+                                "color": "#3572A5"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "name": "custom-antora-ui",
+                            "description": "A customized Antora UI with a minimized Header (e.g. no Home/Products etc), but without breaking the search extension in the process.",
+                            "forkCount": 0,
+                            "stargazers": {
+                                "totalCount": 0
+                            },
+                            "url": "https://github.com/VijoPlays/custom-antora-ui",
+                            "id": "R_kgDOHzj2CA",
+                            "diskUsage": 1348,
+                            "primaryLanguage": {
+                                "name": "CSS",
+                                "color": "#563d7c"
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "name": "SortAlgorithms",
+                            "description": "Java Generic/Comparable sort algorithms (Bubble, Heap, Insertion, Merge, Quick, Selection)",
+                            "forkCount": 0,
+                            "stargazers": {
+                                "totalCount": 0
+                            },
+                            "url": "https://github.com/VijoPlays/SortAlgorithms",
+                            "id": "MDEwOlJlcG9zaXRvcnkxOTcwNzY0MDE=",
+                            "diskUsage": 47,
+                            "primaryLanguage": {
+                                "name": "Java",
+                                "color": "#b07219"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,11 +1,11 @@
-import './ProficiencyContainer.scss';
+import "./ProficiencyContainer.scss";
 
-import { Component } from 'react';
-import { Fade } from 'react-awesome-reveal';
+import { Component } from "react";
+import { Fade } from "react-awesome-reveal";
 
-import Build from '../../../assets/lottie/build.json';
-import { Proficiency } from '../../../types';
-import { DisplayLottie } from '../../shared/lottie/DisplayLottie';
+import Build from "../../../assets/lottie/build.json";
+import { Proficiency } from "../../../types";
+import { DisplayLottie } from "../../shared/lottie/DisplayLottie";
 
 interface ProficiencyContainerProps {
   proficiencies: Proficiency[];
@@ -38,7 +38,7 @@ class ProficiencyContainer extends Component<ProficiencyContainerProps> {
           </div>
 
           <div className="skills-image">
-            <DisplayLottie animationData={Build} loop={true} />
+            <DisplayLottie animationData={Build} loop={false} />
           </div>
         </div>
       </Fade>

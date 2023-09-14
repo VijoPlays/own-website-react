@@ -38,7 +38,7 @@ class ProficiencyContainer extends Component<ProficiencyContainerProps> {
           </div>
 
           <div className="skills-image">
-            <DisplayLottie animationData={Build} loop={false} />
+            <DisplayLottie animationData={Build} loop={true} />
           </div>
         </div>
       </Fade>

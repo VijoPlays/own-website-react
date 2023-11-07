@@ -1,13 +1,8 @@
-import emoji from "react-easy-emoji";
+import emoji from 'react-easy-emoji';
 
 import {
-  Proficiency,
-  School,
-  SkillBulletPoints,
-  SocialMedia,
-  SoftwareSkill,
-  WorkExperience,
-} from "./types";
+    Proficiency, School, SkillBulletPoints, SocialMedia, SoftwareSkill, WorkExperience
+} from './types';
 
 //_globalColor.scss can be updated to change the look of the website.
 
@@ -104,10 +99,10 @@ const softwareSkills: SoftwareSkill[] = [
 const workExperiences: WorkExperience[] = [
   {
     role: "Software Engineer",
-    company: "Camao Tec",
-    companyLogo: require("./assets/images/camao-tec-logo.png"),
+    company: "Mmmake GmbH",
+    companyLogo: require("./assets/images/mmmake-logo.png"),
     date: "October 2021 – Present",
-    description: "C# Backend and Deployment",
+    description: "C#/Java Backend and Deployment",
     descriptionBullets: [
       "ERP with authentication, messaging and user management for one of the biggest IT firms in Germany.",
       "During downtime I got to work on Teams applications written in React and Go.",

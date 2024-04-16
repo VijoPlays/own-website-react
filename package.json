@@ -1,7 +1,7 @@
 {
   "homepage": "https://vijoplays.github.io/profile",
   "name": "vijoplays.github.io",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": false,
   "dependencies": {
     "@babel/preset-typescript": "^7.24.1",

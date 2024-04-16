@@ -1,10 +1,10 @@
-import "./WorkExperienceContainer.scss";
+import './WorkExperienceContainer.scss';
 
-import { Component } from "react";
-import { Fade } from "react-awesome-reveal";
+import { Component } from 'react';
+import { Fade } from 'react-awesome-reveal';
 
-import { BaseProps, WorkExperience } from "../../../types";
-import ExperienceCard from "./experienceCard/ExperienceCard";
+import { BaseProps, WorkExperience } from '../../../types';
+import ExperienceCard from './experienceCard/ExperienceCard';
 
 interface WorkExperienceProps extends BaseProps {
   workExperiences: WorkExperience[];

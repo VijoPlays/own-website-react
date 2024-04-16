@@ -17,6 +17,7 @@ jobs:
         with:
           persist-credentials: false
 
+#FIXME: npm i --legacy-peer-deps is required right now due to react-scripts no longer being maintained - will replace it at some point.
       - name: Install and Build 🔧
         run: |
           npm i --legacy-peer-deps

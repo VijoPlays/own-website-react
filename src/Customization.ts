@@ -1,8 +1,13 @@
-import emoji from 'react-easy-emoji';
+import emoji from "react-easy-emoji";
 
 import {
-    Proficiency, School, SkillBulletPoints, SocialMedia, SoftwareSkill, WorkExperience
-} from './types';
+  Proficiency,
+  School,
+  SkillBulletPoints,
+  SocialMedia,
+  SoftwareSkill,
+  WorkExperience,
+} from "./types";
 
 //_globalColor.scss can be updated to change the look of the website.
 
@@ -101,12 +106,24 @@ const workExperiences: WorkExperience[] = [
     role: "Software Engineer",
     company: "Mmmake GmbH",
     companyLogo: require("./assets/images/mmmake-logo.png"),
-    date: "October 2021 – Present",
+    date: "October 2021 – December 2023",
     description: "C#/Java Backend and Deployment",
     descriptionBullets: [
-      "ERP with authentication, messaging and user management for one of the biggest IT firms in Germany.",
+      "WaWi (inventory management system) with authentication, messaging and user management for one of the biggest IT firms in Germany.",
       "During downtime I got to work on Teams applications written in React and Go.",
       "Brought Testing guidelines to the company to increase the quality of our products.",
+    ],
+  },
+  {
+    role: "Full-Stack Software Engineer",
+    company: "Samhammer AG",
+    companyLogo: require("./assets/images/sag-logo.png"),
+    date: "February 2024 – Present",
+    description: "C# + Vue TypeScript and Deployment",
+    descriptionBullets: [
+      "Ticket system for many customers throughout Germany, with high degree of customization",
+      "Refactoring of old systems (10+ years old) to bring them up to current standards",
+      "Used various technologies (C#, Aurelia, Vue with TypeScript)",
     ],
   },
 ];
